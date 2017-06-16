@@ -113,12 +113,13 @@ hr标签
 
 ## 表格
 	| 这 | 是 | 表 | 头 |  
-	|---|---|---|---|  
+	|:---|:---:|---|---:| 
 	|cell1|cell2|cell3|cell4|  
 	|image]|url|demo|emoji|  
+	
 
 | 这 | 是 | 表 | 头 |
-|---|---|---|---|
+|:---|:---:|---|---:|
 |cell1|cell2|cell3|cell4|
 |row2|row2|row2|row2|
 |![logo][百度logo]|[百度]|demo|:smile:|
