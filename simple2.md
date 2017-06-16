@@ -21,7 +21,7 @@
 ![百度logo](https://www.baidu.com/img/bd_logo1.png '百度logo')
 ### 内部图片
 ![](images/p_1.jpg)
-###图片的引用式
+### 图片的引用式
 ![logo][百度logo]
 
 
@@ -29,7 +29,7 @@
 > 这是一段引文  
 
 出自《XXX》  
-##多次引用  
+## 多次引用  
 >>> 这是多重引用
 
 ## 代码块 demo
