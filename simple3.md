@@ -28,6 +28,7 @@ ___
 
 
 ## GFM
+GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为GitHub Flavored Markdown。简称GFM
 
 task list
 - [x] list1
